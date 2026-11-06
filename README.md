@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Takiwi</h1>
 
-<table>
+
+<table border="0" cellspacing="0" cellpadding="10">
     <tr>
         <td width="60%" valign="top">
-            <h2> Tôi chỉ là 1 lập trình viên bình thường và chỉ đang học hỏi thêm kiến thức, hiện tại đang tập trung vào NestJs và kiến trúc hệ thống.</h2>
+            <h1 align="center">Hi, I'm Takiwi</h1>
+            <h2>Tôi chỉ là một lập trình viên bình thường và chỉ đang học hỏi thêm kiến thức, hiện tại đang tập trung vào NestJs và kiến trúc hệ thống.</h2>
             <ul>
                 <li>Thích xem anime và chơi game</li>
-                <li>Thích nghe nhạc US-UK và JPop</li>
+                <li>Thích nghe nhạc US-UK và J-pop</li>
                 <li>Biết chơi cờ vui</li>
             </ul> 
             <h2 align="left">Languages and Tools</h2>
