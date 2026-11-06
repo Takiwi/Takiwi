@@ -1,11 +1,41 @@
 <h1 align="center">Hi 👋, I'm Takiwi</h1>
-<h3 align="center">Tên thật tôi là Hoàng Đình Tân, chỉ là 1 lập trình viên bình thường và chỉ đang học hỏi thêm kiến thức</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<table>
+    <tr>
+        <td width="60%" valign="top">
+            <h2> Tôi chỉ là 1 lập trình viên bình thường và chỉ đang học hỏi thêm kiến thức, hiện tại đang tập trung vào NestJs và kiến trúc hệ thống.</h2>
+            <ul>
+                <li>Thích xem anime và chơi game</li>
+                <li>Thích nghe nhạc US-UK và JPop</li>
+                <li>Biết chơi cờ vui</li>
+            </ul> 
+            <h2 align="left">Languages and Tools</h2>
+            <div>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40"></a>
+                <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="40" height="40"></a>
+                <a href="https://nestjs.com/"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="40" height="40"></a>
+                <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs/666666" alt="Next.js" width="40" height="40"></a>
+                <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="40" height="40"></a>
+                <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"></a>
+                <a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" width="40" height="40"></a>
+                <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"></a>
+                <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"></a>
+                <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="40" height="40"></a>
+                <a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" width="40" height="40"></a>
+                <a href="https://www.rabbitmq.com/"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ" width="40" height="40"></a>
+            </div>
+        </td>
+        <td width="40%" valign="top">
+            <img src="./asset/anime_2.jpg">
+        </td>
+    </tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="left">Featured Projects</h3>
+<p>Some of my projects will be featured here.</p>
 
-
+<!-- Add project cards here, for example:
+<a href="https://github.com/username/repository">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=username&repo=repository&theme=default" alt="Repository name">
+</a>
+-->
